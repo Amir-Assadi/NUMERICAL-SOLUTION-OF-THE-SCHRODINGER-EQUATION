@@ -1,4 +1,4 @@
-# NUMERICAL-SOLUTION-OF-THE-SCHR-DINGER-EQUATION
+# NUMERICAL-SOLUTION-OF-THE-SCHRODINGER-EQUATION
 
 This project explores numerical approaches to solving both the Time-Independent and Time-Dependent Schrödinger Equations (TISE and TDSE) in one and two dimensions using finite difference methods and the Crank-Nicolson method. The aim is to simulate quantum mechanical systems, validate numerical results against analytical solutions, and study phenomena such as quantum tunneling, eigenstate behavior, and wave packet evolution under various potentials.
 
